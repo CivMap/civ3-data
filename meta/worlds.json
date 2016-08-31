@@ -6,7 +6,8 @@
             "min_x": -2048,
             "min_z": -2048
         },
-        "name": "dracontas"
+        "name": "dracontas",
+        "radius": 1760
     },
     {
         "bounds": {
@@ -15,7 +16,8 @@
             "min_x": -1280,
             "min_z": -1024
         },
-        "name": "naunet"
+        "name": "naunet",
+        "radius": 1010
     },
     {
         "bounds": {
@@ -24,6 +26,43 @@
             "min_x": -1280,
             "min_z": -1792
         },
-        "name": "tjikko"
+        "name": "tjikko",
+        "radius": 1510
+    },
+    {
+        "name": "rokko",
+        "radius": 2010
+    },
+    {
+        "name": "volans",
+        "radius": 1010
+    },
+    {
+        "name": "eilon",
+        "radius": 1510
+    },
+    {
+        "name": "abydos",
+        "radius": 2010
+    },
+    {
+        "name": "padzahr",
+        "radius": 1010
+    },
+    {
+        "name": "isolde",
+        "radius": 2510
+    },
+    {
+        "name": "tigrillo",
+        "radius": 1760
+    },
+    {
+        "name": "ulca",
+        "radius": 3010
+    },
+    {
+        "name": "sheol",
+        "radius": 1310
     }
 ]
