@@ -1,14 +1,29 @@
 [
-  {
-    "name": "dracontas",
-    "bounds": {"max_z": 1280, "min_x": -2048, "max_x": 2048, "min_z": -2048}
-  },
-  {
-    "name": "naunet",
-    "bounds": {"max_x": 1280, "min_x": -1280, "max_z": 1280, "min_z": -1024}
-  },
-  {
-    "name": "tjikko",
-    "bounds": {"min_x": -1280, "min_z": -1792, "max_z": 1536, "max_x": 1536}
-  }
+    {
+        "bounds": {
+            "max_x": 2048,
+            "max_z": 1280,
+            "min_x": -2048,
+            "min_z": -2048
+        },
+        "name": "dracontas"
+    },
+    {
+        "bounds": {
+            "max_x": 1280,
+            "max_z": 1280,
+            "min_x": -1280,
+            "min_z": -1024
+        },
+        "name": "naunet"
+    },
+    {
+        "bounds": {
+            "max_x": 1536,
+            "max_z": 1536,
+            "min_x": -1280,
+            "min_z": -1792
+        },
+        "name": "tjikko"
+    }
 ]
