@@ -1,0 +1,170 @@
+[
+    {
+        "begin": 202.5,
+        "end": 247.5,
+        "from": "rokko",
+        "to": "volans"
+    },
+    {
+        "begin": 292.5,
+        "end": 337.5,
+        "from": "rokko",
+        "to": "tjikko"
+    },
+    {
+        "begin": 22.5,
+        "end": 67.5,
+        "from": "volans",
+        "to": "rokko"
+    },
+    {
+        "begin": 292.5,
+        "end": 337.5,
+        "from": "volans",
+        "to": "drakontas"
+    },
+    {
+        "begin": 90.0,
+        "end": 150.0,
+        "from": "drakontas",
+        "to": "volans"
+    },
+    {
+        "begin": 210.0,
+        "end": 270.0,
+        "from": "drakontas",
+        "to": "isolde"
+    },
+    {
+        "begin": 330.0,
+        "end": 30.0,
+        "from": "drakontas",
+        "to": "ulca"
+    },
+    {
+        "begin": 0.0,
+        "end": 60.0,
+        "from": "tjikko",
+        "to": "naunet"
+    },
+    {
+        "begin": 120.0,
+        "end": 180.0,
+        "from": "tjikko",
+        "to": "rokko"
+    },
+    {
+        "begin": 240.0,
+        "end": 300.0,
+        "from": "tjikko",
+        "to": "ulca"
+    },
+    {
+        "begin": 60.0,
+        "end": 120.0,
+        "from": "eilon",
+        "to": "ulca"
+    },
+    {
+        "begin": 180.0,
+        "end": 240.0,
+        "from": "eilon",
+        "to": "padzahr"
+    },
+    {
+        "begin": 300.0,
+        "end": 0.0,
+        "from": "eilon",
+        "to": "abydos"
+    },
+    {
+        "begin": 22.5,
+        "end": 67.5,
+        "from": "abydos",
+        "to": "sheol"
+    },
+    {
+        "begin": 112.5,
+        "end": 157.5,
+        "from": "abydos",
+        "to": "eilon"
+    },
+    {
+        "begin": 112.5,
+        "end": 157.5,
+        "from": "padzahr",
+        "to": "isolde"
+    },
+    {
+        "begin": 22.5,
+        "end": 67.5,
+        "from": "padzahr",
+        "to": "eilon"
+    },
+    {
+        "begin": 22.5,
+        "end": 67.5,
+        "from": "isolde",
+        "to": "drakontas"
+    },
+    {
+        "begin": 292.5,
+        "end": 337.5,
+        "from": "isolde",
+        "to": "padzahr"
+    },
+    {
+        "begin": 202.5,
+        "end": 247.5,
+        "from": "naunet",
+        "to": "tjikko"
+    },
+    {
+        "begin": 270.0,
+        "end": 330.0,
+        "from": "tigrillo",
+        "to": "sheol"
+    },
+    {
+        "begin": 150.0,
+        "end": 210.0,
+        "from": "tigrillo",
+        "to": "ulca"
+    },
+    {
+        "begin": 337.5,
+        "end": 22.5,
+        "from": "ulca",
+        "to": "tigrillo"
+    },
+    {
+        "begin": 247.5,
+        "end": 292.5,
+        "from": "ulca",
+        "to": "eilon"
+    },
+    {
+        "begin": 67.5,
+        "end": 112.5,
+        "from": "ulca",
+        "to": "tjikko"
+    },
+    {
+        "begin": 157.5,
+        "end": 202.5,
+        "from": "ulca",
+        "to": "drakontas"
+    },
+    {
+        "begin": 202.5,
+        "end": 247.5,
+        "from": "sheol",
+        "to": "abydos"
+    },
+    {
+        "begin": 112.5,
+        "end": 157.5,
+        "from": "sheol",
+        "to": "tigrillo"
+    }
+]
