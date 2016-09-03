@@ -1,0 +1,46 @@
+{
+    "drakontas": [],
+    "naunet": [
+        {
+            "name": "Naunet political",
+            "url": "naunet/naunet-terrain-political-imgur-exEP5dM.png",
+            "bounds": {
+                "max_x": 1260,
+                "max_z": 1480,
+                "min_x": -1260,
+                "min_z": -1370
+            }
+        }
+    ],
+    "tjikko": [
+        {
+            "name": "tjikko old claims",
+            "url": "tjikko/tjikko-old-claims-X1r4bAW.png",
+            "bounds": {
+                "max_x": 1630,
+                "max_z": 1580,
+                "min_x": -1536,
+                "min_z": -1536
+            }
+        },
+        {
+            "name": "tjikko claims 2016-09-02",
+            "url": "tjikko/tjikko-terrain-claims-2016-09-02.png",
+            "bounds": {
+                "max_x": 1630,
+                "max_z": 1580,
+                "min_x": -1536,
+                "min_z": -1536
+            }
+        }
+    ],
+    "rokko": [],
+    "volans": [],
+    "eilon": [],
+    "abydos": [],
+    "padzahr": [],
+    "isolde": [],
+    "tigrillo": [],
+    "ulca": [],
+    "sheol": []
+}
