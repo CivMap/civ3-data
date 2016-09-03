@@ -1,9 +1,20 @@
 {
-    "drakontas": [],
+    "drakontas": [
+        {
+            "name": "Drakontas 1st of Sept. 2016",
+            "url": "https://i.imgur.com/AuPbDQd.jpg",
+            "bounds": {
+                "max_x": 1850,
+                "max_z": 1750,
+                "min_x": -1890,
+                "min_z": -1800
+            }
+        }
+    ],
     "naunet": [
         {
             "name": "Naunet political",
-            "url": "naunet/naunet-terrain-political-imgur-exEP5dM.png",
+            "url": "https://i.imgur.com/exEP5dM.png",
             "bounds": {
                 "max_x": 1260,
                 "max_z": 1480,
@@ -14,8 +25,8 @@
     ],
     "tjikko": [
         {
-            "name": "tjikko old claims",
-            "url": "tjikko/tjikko-old-claims-X1r4bAW.png",
+            "name": "Tjikko GRINSSR claims 2016-08-17",
+            "url": "https://puu.sh/qD4jD/0b5b076622.png",
             "bounds": {
                 "max_x": 1630,
                 "max_z": 1580,
@@ -24,8 +35,8 @@
             }
         },
         {
-            "name": "tjikko claims 2016-09-02",
-            "url": "tjikko/tjikko-terrain-claims-2016-09-02.png",
+            "name": "Tjikko Concordia claims 2016-09-02",
+            "url": "https://i.imgur.com/yHldqg9.png",
             "bounds": {
                 "max_x": 1630,
                 "max_z": 1580,
@@ -34,7 +45,18 @@
             }
         }
     ],
-    "rokko": [],
+    "rokko": [
+        {
+            "name": "Rokko Steppe 2016-09-02",
+            "url": "https://i.imgur.com/4fbJeZ8.jpg",
+            "bounds": {
+                "max_x": 2600,
+                "max_z": 2000,
+                "min_x": -2600,
+                "min_z": -2250
+            }
+        }
+    ],
     "volans": [],
     "eilon": [],
     "abydos": [],
