@@ -14,12 +14,12 @@
     "naunet": [
         {
             "name": "Naunet political",
-            "url": "https://i.imgur.com/exEP5dM.png",
+            "url": "https://cdn.discordapp.com/attachments/212059637040545792/223150822869958657/Naunet-no-background.png",
             "bounds": {
                 "max_x": 1260,
-                "max_z": 1480,
+                "max_z": 1400,
                 "min_x": -1260,
-                "min_z": -1370
+                "min_z": -1400
             }
         }
     ],
@@ -50,8 +50,8 @@
             "name": "Rokko Steppe 2016-09-02",
             "url": "https://i.imgur.com/4fbJeZ8.jpg",
             "bounds": {
-                "max_x": 2600,
-                "max_z": 2000,
+                "max_x": 2550,
+                "max_z": 2300,
                 "min_x": -2600,
                 "min_z": -2250
             }
