@@ -52,6 +52,16 @@
     {
         "bounds": {
             "max_x": 1024,
+            "max_z": 512,
+            "min_x": -1024,
+            "min_z": -1024
+        },
+        "name": "ovid",
+        "radius": 1010
+    },
+    {
+        "bounds": {
+            "max_x": 1024,
             "max_z": 1280,
             "min_x": -1280,
             "min_z": -1280
