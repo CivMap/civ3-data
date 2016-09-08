@@ -1,0 +1,11 @@
+{
+    "abydos": {
+        "url": "https://i.redd.it/ovt1m68qhncx.png",
+        "bounds": {
+            "max_x": 2070,
+            "max_z": 2070,
+            "min_x": -2070,
+            "min_z": -2070
+        }
+    }
+}
