@@ -1,60 +1,37 @@
 {
     "drakontas": [
         {
-            "name": "Drakontas 1st of Sept. 2016",
+            "name": "Drakontas 2016-09-01",
             "url": "https://i.redd.it/zka2qrsdp6jx.jpg",
-            "bounds": {
-                "max_x": 1850,
-                "max_z": 1750,
-                "min_x": -1890,
-                "min_z": -1800
-            }
+            "source": "https://www.reddit.com/r/Civcraft/comments/50vopy/savions_aka_silvertuxedo_friends_updated_claims/",
+            "bounds": [[-1800, -1890], [1750, 1850]]
         }
     ],
     "naunet": [
         {
             "name": "Naunet political",
             "url": "https://cdn.discordapp.com/attachments/212059637040545792/223150822869958657/Naunet-no-background.png",
-            "bounds": {
-                "max_x": 1260,
-                "max_z": 1400,
-                "min_x": -1260,
-                "min_z": -1400
-            }
+            "bounds": [[-1400, -1260], [1400, 1260]]
         }
     ],
     "tjikko": [
         {
             "name": "Tjikko GRINSSR claims 2016-08-17",
             "url": "https://puu.sh/qD4jD/0b5b076622.png",
-            "bounds": {
-                "max_x": 1630,
-                "max_z": 1580,
-                "min_x": -1536,
-                "min_z": -1536
-            }
+            "bounds": [[-1536, -1536], [1580, 1630]]
         },
         {
-            "name": "Tjikko Concordia claims 2016-09-02",
-            "url": "https://i.imgur.com/yHldqg9.png",
-            "bounds": {
-                "max_x": 1630,
-                "max_z": 1580,
-                "min_x": -1536,
-                "min_z": -1536
-            }
+            "name": "Tjikko Concordia+Euthenia+Hackney claims 2016-09-08",
+            "url": "https://i.imgur.com/NtkE7hL.png",
+            "source": "https://www.reddit.com/r/Civcraft/comments/51btcy/new_euthenias_claims_in_tjikko",
+            "bounds": [[-1536, -1536], [1580, 1630]]
         }
     ],
     "rokko": [
         {
             "name": "Rokko Steppe 2016-09-02",
             "url": "https://i.imgur.com/4fbJeZ8.jpg",
-            "bounds": {
-                "max_x": 2550,
-                "max_z": 2300,
-                "min_x": -2600,
-                "min_z": -2250
-            }
+            "bounds": [[-2270, -2600], [2300, 2550]]
         }
     ],
     "volans": [],
