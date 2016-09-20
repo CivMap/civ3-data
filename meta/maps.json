@@ -10,8 +10,8 @@
     "naunet": [
         {
             "name": "Naunet political",
-            "url": "https://cdn.discordapp.com/attachments/212059637040545792/223150822869958657/Naunet-no-background.png",
-            "bounds": [[-1400, -1260], [1400, 1260]]
+            "url": "https://cdn.discordapp.com/attachments/227826595757293570/227870693356863498/naunet-overlay.png",
+            "bounds": [[-1124, -1124], [1124, 1124]]
         }
     ],
     "tjikko": [
