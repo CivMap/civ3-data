@@ -24,9 +24,10 @@
     ],
     "rokko": [
         {
-            "name": "Rokko Steppe 2016-09-02",
-            "url": "https://i.imgur.com/4fbJeZ8.jpg",
-            "bounds": [[-2270, -2600], [2300, 2550]]
+            "name": "Rokko Steppe 2016-09-19",
+            "url": "https://i.imgur.com/eCnOg5h.png",
+            "source": "https://www.reddit.com/r/Civcraft/comments/53iyaq/aegis_annexes_the_heian_empire/",
+            "bounds": [[-2136, -2104], [2149, 4784]]
         }
     ],
     "volans": [],
