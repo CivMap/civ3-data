@@ -17,9 +17,8 @@
     "tjikko": [
         {
             "name": "Tjikko claims 2016-09-10",
-            "url": "https://i.reddituploads.com/3cae2edc20c44b2aa4e65dc70f3c8545?fit=max&h=1536&w=1536&s=4e4cd124e116dfe8a608d26bcf857732",
-            "source": "https://www.reddit.com/r/Civcraft/comments/5261ba/updated_tjikko_claims_map_sept_10_2016/",
-            "bounds": [[-1536, -1536], [1580, 1630]]
+            "url": "https://cdn.discordapp.com/attachments/227826595757293570/227954563850698752/tjikko-overlay.png",
+            "bounds": [[-1645, -1645], [1645, 1645]]
         }
     ],
     "rokko": [
